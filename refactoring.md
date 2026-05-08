@@ -862,3 +862,15 @@ Discounted Total: 88.0
 - **Online Resources**:
   - [Refactoring.com](https://refactoring.com) (Martin Fowler’s website).
   - Articles and tutorials on refactoring patterns.
+
+## Student Work
+
+- Project setup using Gradle
+- Fixed JUnit dependencies
+- Implemented Calculator class
+- Performed Rename Refactoring:
+  - calc → calculate
+  - prtRes → printResult
+  - x → sum
+  - y → product
+- All tests executed successfully using Gradle
